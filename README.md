@@ -10,3 +10,4 @@ MT-ME-Balance-204-Data-Logger is the data logging software for MT-ME-Balance-204
 Travelling Salesman Problem is my undergraduate project for Travelling Salesman Problem. 
 It based on Monte Carlo methon to generae random cities combination and estimate the energy with their total travel distance.
 And I use the genetic algorithm to switch cities combination with certain transision probability.
+Note, the energy is estimated with partition function with replacement of energy by travelled distance.
